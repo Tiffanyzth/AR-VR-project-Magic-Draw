@@ -1,0 +1,4 @@
+#Wed Dec 04 13:20:49 GMT+08:00 2019
+base.0=C\:\\Users\\79215\\AndroidStudioProjects\\MagicDraw\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

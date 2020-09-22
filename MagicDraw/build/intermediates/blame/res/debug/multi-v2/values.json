@@ -1,0 +1,42 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\79215\\AndroidStudioProjects\\MagicDraw\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\79215\\AndroidStudioProjects\\MagicDraw\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "424",
+                        "endLines": "11",
+                        "endColumns": "8",
+                        "endOffsets": "517"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\79215\\AndroidStudioProjects\\MagicDraw\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,9,-1,-1,-1,6,-1,-1",
+                        "startColumns": "-1,2,-1,-1,-1,2,-1,-1",
+                        "startOffsets": "-1,372,-1,-1,-1,228,-1,-1",
+                        "endColumns": "-1,42,-1,-1,-1,48,-1,-1",
+                        "endOffsets": "-1,412,-1,-1,-1,274,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,147,189,240,285,336,381",
+                        "endColumns": "46,44,41,50,44,50,44,42",
+                        "endOffsets": "97,142,184,235,280,331,376,419"
+                    }
+                }
+            ]
+        }
+    ]
+}

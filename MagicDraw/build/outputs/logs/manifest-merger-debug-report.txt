@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:2:70-103
+		INJECTED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:2:104-129
+		INJECTED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:2:130-153
+		INJECTED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:2:154-194
+supports-screens
+ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:4:3-24:17
+	android:label
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:4:50-82
+	android:icon
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:4:16-49
+	android:banner
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:4:105-142
+	android:theme
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:4:143-201
+	android:isGame
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:4:83-104
+activity#com.company.educationAR.UnityPlayerActivity
+ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:5:5-7:16
+	android:screenOrientation
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:5:48-85
+	android:label
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:5:15-47
+	android:launchMode
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:5:86-117
+	android:configChanges
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:6:9-190
+	android:name
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:5:118-176
+activity#com.company.educationAR.MainActivity
+ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:8:5-15:16
+	android:screenOrientation
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:9:38-75
+	android:label
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:10:43-75
+	android:icon
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:10:9-42
+	android:banner
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:10:98-135
+	android:isGame
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:10:76-97
+	android:name
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:9:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:11:7-14:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:12:9-61
+	android:name
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:12:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:13:9-69
+	android:name
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:13:19-66
+activity#com.company.educationAR.PaintingActivity
+ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:16:5-19:16
+	android:screenOrientation
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:17:42-79
+	android:label
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:18:43-75
+	android:icon
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:18:9-42
+	android:banner
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:18:98-135
+	android:isGame
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:18:76-97
+	android:name
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:17:9-41
+activity#com.company.educationAR.pictureActivity
+ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:20:5-23:16
+	android:screenOrientation
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:21:41-78
+	android:label
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:22:43-75
+	android:icon
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:22:9-42
+	android:banner
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:22:98-135
+	android:isGame
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:22:76-97
+	android:name
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:21:9-40
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:25:3-63
+	android:name
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:25:20-60
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:26:3-79
+	android:name
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:26:20-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:27:3-65
+	android:name
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:27:20-62
+uses-sdk
+ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:28:3-45
+INJECTED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:28:3-45
+INJECTED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:28:3-45
+INJECTED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:28:3-45
+INJECTED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:28:3-45
+	android:targetSdkVersion
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:28:13-42
+		INJECTED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:28:3-45
+		INJECTED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:29:3-52
+	android:glEsVersion
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:29:17-49
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:30:3-88
+	android:required
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:30:61-85
+	android:name
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:30:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:31:3-99
+	android:required
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:31:72-96
+	android:name
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:31:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:32:3-108
+	android:required
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:32:81-105
+	android:name
+		ADDED from C:\Users\79215\AndroidStudioProjects\MagicDraw\src\main\AndroidManifest.xml:32:17-80

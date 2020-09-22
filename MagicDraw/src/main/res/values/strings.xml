@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">MagicDraw</string>
+  <string name="button">Button</string>
+  <string name="plane_name">plane</string>
+  <string name="taxi_name">taxi</string>
+  <string name="mashroom_name">mashroom</string>
+  <string name="house_name">house</string>
+  <string name="elephant_name">elephant</string>
+  <string name="apple_name">apple</string>
+
+</resources>
